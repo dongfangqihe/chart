@@ -61,7 +61,7 @@ function App() {
         <div className="App-content">
           <Context.Provider value={person}>
             <Routes>
-              <Route path="/" element={<AgpView />} />
+              <Route path="/chart" element={<AgpView />} />
               <Route path="/overlay" element={<OverlayView />} />
               <Route path="/about" element={<AboutView />} />
               <Route path="/glucomine" element={<GlucoMineView />} />
