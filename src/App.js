@@ -40,13 +40,13 @@ function App() {
       <div className="App-container">
         <div className="App-menu">
           <h1>CHARTS</h1>
-          <Link className={current === 0 ? 'active' : ''} to="/" onClick={() => setCurrent(0)}>
+          <Link className={current === 0 ? 'active' : ''} to="/chart" onClick={() => setCurrent(0)}>
             <AreaChartOutlined style={{color: '#7A3FD7' }}/> AGP
           </Link>
-          <Link className={current === 1 ? 'active' : ''} to="overlay" onClick={() => setCurrent(1)}>
+          <Link className={current === 1 ? 'active' : ''} to="/overlay" onClick={() => setCurrent(1)}>
             <LineChartOutlined style={{color: '#7A3FD7' }}/> Overlay
           </Link>
-          <Link className={current === 2 ? 'active' : ''} to="glucomine" onClick={() => setCurrent(2)}>
+          <Link className={current === 2 ? 'active' : ''} to="/glucomine" onClick={() => setCurrent(2)}>
             <PicLeftOutlined style={{color: '#7A3FD7' }}/> GlucoMine
           </Link>
           <div className='App-menu-bottom'>
