@@ -1,3 +1,215 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d0104b53f9d0aa795a6939f10486535a26ac7da1649bc1a126ef18d13eaae46b
-size 9643
+[
+    {
+        "subject":"Person 1",
+        "summaries":[
+            {
+                "period":"1day",
+                "data":{
+                    "Mean":"104.16139755945069",
+                    "Standard Deviation":"22.963301032976627",
+                    "Glucose Management Indicator (GMI)":"5.80154062962206",
+                    "Glucose Variability (coefficient of variation)":"0.22045884148079134",
+                    "Estimated A1C":"5.2564946884826025",
+                    "Sensor Usage (% available data)":"9.871291101190286e-05"
+                }
+            },
+            {
+                "period":"1week",
+                "data":{
+                    "Mean":"123.93264733834016",
+                    "Standard Deviation":"39.96035678186739",
+                    "Glucose Management Indicator (GMI)":"6.274468924333097",
+                    "Glucose Variability (coefficient of variation)":"0.32243607830610055",
+                    "Estimated A1C":"5.9453884090014",
+                    "Sensor Usage (% available data)":"0.0009635653829742518"
+                }
+            },
+            {
+                "period":"2weeks",
+                "data":{
+                    "Mean":"132.89634295843157",
+                    "Standard Deviation":"45.738255644004575",
+                    "Glucose Management Indicator (GMI)":"6.488880523565683",
+                    "Glucose Variability (coefficient of variation)":"0.34416489292192914",
+                    "Estimated A1C":"6.257712298203192",
+                    "Sensor Usage (% available data)":"0.0021977951993682374"
+                }
+            },
+            {
+                "period":"1month",
+                "data":{
+                    "Mean":"104.16139755945069",
+                    "Standard Deviation":"22.963301032976627",
+                    "Glucose Management Indicator (GMI)":"5.80154062962206",
+                    "Glucose Variability (coefficient of variation)":"0.22045884148079134",
+                    "Estimated A1C":"5.2564946884826025",
+                    "Sensor Usage (% available data)":"9.871291101190286e-05"
+                }
+            },
+            {
+                "period":"3months",
+                "data":{
+                    "Mean":"104.16139755945069",
+                    "Standard Deviation":"22.963301032976627",
+                    "Glucose Management Indicator (GMI)":"5.80154062962206",
+                    "Glucose Variability (coefficient of variation)":"0.22045884148079134",
+                    "Estimated A1C":"5.2564946884826025",
+                    "Sensor Usage (% available data)":"9.871291101190286e-05"
+                }
+            },
+            {
+                "period":"6months",
+                "data":{
+                    "Mean":"104.16139755945069",
+                    "Standard Deviation":"22.963301032976627",
+                    "Glucose Management Indicator (GMI)":"5.80154062962206",
+                    "Glucose Variability (coefficient of variation)":"0.22045884148079134",
+                    "Estimated A1C":"5.2564946884826025",
+                    "Sensor Usage (% available data)":"9.871291101190286e-05"
+                }
+            }
+        ]
+    },
+    {
+        "subject":"Person 2",
+        "summaries":[
+            {
+                "period":"1day",
+                "data":{
+                    "Mean":"170.96303812420237",
+                    "Standard Deviation":"44.60449118693912",
+                    "Glucose Management Indicator (GMI)":"7.399435871930921",
+                    "Glucose Variability (coefficient of variation)":"0.26090137187743795",
+                    "Estimated A1C":"7.584077983421686",
+                    "Sensor Usage (% available data)":"0.0001834149572350195"
+                }
+            },
+            {
+                "period":"1week",
+                "data":{
+                    "Mean":"179.9795343921571",
+                    "Standard Deviation":"40.027106660647085",
+                    "Glucose Management Indicator (GMI)":"7.6151104626603985",
+                    "Glucose Variability (coefficient of variation)":"0.22239810096092422",
+                    "Estimated A1C":"7.898241616451467",
+                    "Sensor Usage (% available data)":"0.0005502448717050586"
+                }
+            },
+            {
+                "period":"2weeks",
+                "data":{
+                    "Mean":"179.97755881443257",
+                    "Standard Deviation":"56.202133554916195",
+                    "Glucose Management Indicator (GMI)":"7.615063206841228",
+                    "Glucose Variability (coefficient of variation)":"0.3122730073967938",
+                    "Estimated A1C":"7.8981727809906825",
+                    "Sensor Usage (% available data)":"0.0018016698403398271"
+                }
+            },
+            {
+                "period":"1month",
+                "data":{
+                    "Mean":"170.96303812420237",
+                    "Standard Deviation":"44.60449118693912",
+                    "Glucose Management Indicator (GMI)":"7.399435871930921",
+                    "Glucose Variability (coefficient of variation)":"0.26090137187743795",
+                    "Estimated A1C":"7.584077983421686",
+                    "Sensor Usage (% available data)":"0.0001834149572350195"
+                }
+            },
+            {
+                "period":"3months",
+                "data":{
+                    "Mean":"170.96303812420237",
+                    "Standard Deviation":"44.60449118693912",
+                    "Glucose Management Indicator (GMI)":"7.399435871930921",
+                    "Glucose Variability (coefficient of variation)":"0.26090137187743795",
+                    "Estimated A1C":"7.584077983421686",
+                    "Sensor Usage (% available data)":"0.0001834149572350195"
+                }
+            },
+            {
+                "period":"6months",
+                "data":{
+                    "Mean":"170.96303812420237",
+                    "Standard Deviation":"44.60449118693912",
+                    "Glucose Management Indicator (GMI)":"7.399435871930921",
+                    "Glucose Variability (coefficient of variation)":"0.26090137187743795",
+                    "Estimated A1C":"7.584077983421686",
+                    "Sensor Usage (% available data)":"0.0001834149572350195"
+                }
+            }
+        ]
+    },
+    {
+        "subject":"Person 12",
+        "summaries":[
+            {
+                "period":"1day",
+                "data":{
+                    "Mean":"126.93216790218041",
+                    "Standard Deviation":"22.277703080287996",
+                    "Glucose Management Indicator (GMI)":"6.346217456220156",
+                    "Glucose Variability (coefficient of variation)":"0.1755087260264568",
+                    "Estimated A1C":"6.049901320633464",
+                    "Sensor Usage (% available data)":"6.0501461587940466e-05"
+                }
+            },
+            {
+                "period":"1week",
+                "data":{
+                    "Mean":"116.17995079329796",
+                    "Standard Deviation":"33.28802652508602",
+                    "Glucose Management Indicator (GMI)":"6.089024422975687",
+                    "Glucose Variability (coefficient of variation)":"0.2865212654833238",
+                    "Estimated A1C":"5.675259609522577",
+                    "Sensor Usage (% available data)":"0.0005311391469930773"
+                }
+            },
+            {
+                "period":"2weeks",
+                "data":{
+                    "Mean":"110.91333450383644",
+                    "Standard Deviation":"30.03069406734985",
+                    "Glucose Management Indicator (GMI)":"5.963046961331768",
+                    "Glucose Variability (coefficient of variation)":"0.2707581933379805",
+                    "Estimated A1C":"5.491753815464684",
+                    "Sensor Usage (% available data)":"0.0016602874774711662"
+                }
+            },
+            {
+                "period":"1month",
+                "data":{
+                    "Mean":"126.93216790218041",
+                    "Standard Deviation":"22.277703080287996",
+                    "Glucose Management Indicator (GMI)":"6.346217456220156",
+                    "Glucose Variability (coefficient of variation)":"0.1755087260264568",
+                    "Estimated A1C":"6.049901320633464",
+                    "Sensor Usage (% available data)":"6.0501461587940466e-05"
+                }
+            },
+            {
+                "period":"3months",
+                "data":{
+                    "Mean":"126.93216790218041",
+                    "Standard Deviation":"22.277703080287996",
+                    "Glucose Management Indicator (GMI)":"6.346217456220156",
+                    "Glucose Variability (coefficient of variation)":"0.1755087260264568",
+                    "Estimated A1C":"6.049901320633464",
+                    "Sensor Usage (% available data)":"6.0501461587940466e-05"
+                }
+            },
+            {
+                "period":"6months",
+                "data":{
+                    "Mean":"126.93216790218041",
+                    "Standard Deviation":"22.277703080287996",
+                    "Glucose Management Indicator (GMI)":"6.346217456220156",
+                    "Glucose Variability (coefficient of variation)":"0.1755087260264568",
+                    "Estimated A1C":"6.049901320633464",
+                    "Sensor Usage (% available data)":"6.0501461587940466e-05"
+                }
+            }
+        ]
+    }
+]
